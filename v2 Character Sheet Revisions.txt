@@ -1,0 +1,54 @@
+Name:
+Hero Name:
+
+Hero Concept: ___ is a ____ who can ____.
+
+Points - xxx (Power Level) 
+Archetype - __
+Level - __
+
+ABILITY SCORES:
+Strength:
+Dexterity:
+Constitution:
+Intelligence:
+Wisdom:
+Charisma:
+
+Hit Points:
+Hit Dice:
+Fatigue Points:
+
+Basic Move: - What is your innate physical speed?
+(REMOVE BASIC SPEED)
+
+
+DEFENSE
+Innate Armor Class (DR): - How hard is it to hit you?
+Psionic Armor Class = Wisdom
+
+ACTIVE DEFENSE:
+As a Reaction, you can take one of these actions against an attack you can see (or sense, if you have some form of sensory ability). Add the appropriate modifier to your Armor Class for JUST THIS SPECIFIED ATTACK.
+
+Dodge: (Dexterity Based) 
+Parry: (Strength Based) 
+Block: (Constitution Based) 
+Mind Shield: (Wisdom Based) - This is only available to someone with this ability, and adds a bonus to your Psionic Armor Class.
+
+
+OFFENSE
+Weapon: (Proficiency Bonus + Weapon Damage)
+Basic Strike: ((Strength + Dexterity) / 4) - Basic Physical Attack with no modifiers
+Mental Kick: (Intelligence + Wisdom / 6) - Basic Mental Attack with no modifiers
+
+
+ADVANTAGES:
+Fill in the list of master advantages
+
+
+DISADVANTAGES:
+Fill in the list of master disadvantages
+
+
+SPELLS:
+Fill in the list of spells, reference the Dungeons and Dragons spell list more than the GURPS one but combine the two)
