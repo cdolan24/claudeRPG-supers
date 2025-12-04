@@ -1,0 +1,91 @@
+v2 Change Notes:
+
+Here are the parts of the sample character sheet that have been changed or better defined:
+
+DEFENSE
+Innate Armor Class = 10 + Dexterity Modifier + Damage Resistance (DR) + Armor Class
+Psionic Armor Class = Wisdom Score + Mind Shield Advantage + Psionic Armor Advantage
+
+Psionic Armor Advantage - Adds a bonus to your Psi AC
+Mind Shield Advantage - Allows you to take a Mind Shield Active Defense Reaction
+
+
+ACTIVE DEFENSE:
+As a Reaction, you can take one of these actions against an attack you can see (or sense, if you have some form of sensory ability). Add the modifier for the ability to your Armor Class for JUST THIS SPECIFIED ATTACK.
+
+Dodge: (Dexterity Based) 
+Parry: (Strength Based) 
+Block: (Constitution Based) 
+Mind Shield: (Wisdom Based) - This is only available to someone with this ability
+
+Example: A character with a 15 AC and a +5 Dexterity enters combat. Three ninjas strike at the character with kunai. The character chooses to DODGE the kunai of ninja 2, so for that attack, their AC is 20. Ninja 1 rolls a 13, which misses, Ninja 2 rolls a 17, which misses, and Ninja 3 rolls a 16, which hits.
+
+Create an Active Defender Advantage that allows you to block one extra attack for each level you take, and a Passive Combatant Disadvantage that prevents you from using an Active Defense.
+
+
+OFFENSE
+Weapon: (Proficiency Bonus + Weapon Damage)
+Basic Strike: ((Strength + Dexterity) / 4) - Basic Physical Attack with no modifiers
+Mental Kick: (Intelligence + Wisdom / 6) - Basic Mental Attack with no modifiers
+
+
+ADVANTAGES:
+Given the current master advantage list, come up with a few more
+
+
+DISADVANTAGES:
+Given the current master disadvantage list, come up with a few more
+
+
+SPELLS:
+Expand on the list of spells. Assimilate more from GURPS Magic and D&D, while keeping the same D&D combat system.
+
+
+GENERAL SKILLS:
+Skills are generalized statistics based off of your Attributes that determine how good you are likely to be at something. If you have a SPECIALIZED SKILL, use that instead or add it to your modifier as described. 
+
+Move ESP to the advantages category
+Create other advantages that allow for similar effects.
+I.E. "Master Detective" allows you to use an Investigation roll instead of a Perception roll. "Superior Will" allows for a reroll on a Vigilance roll once per long rest. Come up with a few of these potential advantages and place them in the advantages list.
+
+
+SPECIALIZED SKILLS:
+Specialized Skills are something you have trained specifically for and can use immediately on command. For example, the speedster character does not have to make a vigilance roll for running long distance, they make a Vigilance roll plus their Running specialized skill modifier. If your character has an exosuit they made, they don't have to make a machinery roll every time when they want to rewire it, they make a Machinery roll plus their Battlesuits specialized skill. 
+
+Specialized Skills can also be attacks. If you have an innate attack, your attack modifier will be determined in part by your Specialized Skill. For example, Johnny has acid spit and wants to use it. Acid Spit is a ranged attack, and is thus Dexterity based, so Johnny uses his Dexterity Modifier. Because Johnny has a specialized skill that gives him proficiency in his innate attacks, he is allowed to use his proficiency bonus in order to hit. Johnny can even spend some points on this specialized skill in order to upgrade his attack roll (probability to hit), but the attack roll specialized skill will not inherently make it more damaging. To do that, Johnny has to spend points on the attack itself.
+
+Fill in a full list of Specialized Skills below. Take the skills from GURPS that might be relevant to this character creation system.
+
+
+EQUIPMENT:
+Fill in a full list of master equipment
+- Fill in a full list of master weapons.
+
+ARMOR:
+Armor can supplement your character's abilities or attributes without actually being a part of your character. For example, Thor wears a metal breastplate that makes him tougher, even though he is already quite strong. Levels of armor include:
+- Spandex (Lowest Level) 
+- Bulletproof Vest
+- Full Kevlar 
+- Specialized Polymer
+(Past this point these clothes cannot easily fit underneath an overcoat)
+- SWAT gear
+- Full Plate
+
+Place these levels on a table i.e. D and D "Light, Medium, Heavy" armor. Fill in a few more options besides just these six.
+
+
+Armor can also have attributes that give it special properties. Some of these might include:
+- Powers Resistant (E.g. Fireboy's suit will not catch fire when Fireboy uses his powers.)
+- Onboard Technology (Onboard Communicator, Onboard Weaponry, Onboard Gadgetry)
+
+Fill out some options for potential onboard technological features.
+
+
+In its most advanced form, armor can be an "exosuit". An exosuit is typically a suit of full plate armor with a variety of onboard technology. What differentiates an exosuit from regular armor is the ability for it to simulate physical advantages. An exosuit might have an extra limb, flight capability, or even allow the wearer to heal while using it. An exosuit requires a Specialized Skill in order to be able to wield properly, and players who wish to have an exosuit must pay for it using the Exosuit Traits table below the Armor table.
+
+Exosuits should be slightly more expensive to avoid balancing issues.
+
+
+CLASS FEATURES:
+Revisit the Class Features list and adjust as you see fit given the balancing
+
